@@ -14,18 +14,12 @@ jobs:
       contents: read
     steps:
       - name: Checkout repository
-        id: checkout
         uses: actions/checkout@v4
       - name: Install Terraform
-        id: tf-install
         uses: hashicorp/setup-terraform@v2
       - name: Set up Terraform
-        id: tf-init
         working-directory: src
-        run: |
-          terraform init
+        run: terraform init
       - name: Apply Terraform changes
-        id: tf-apply
         working-directory: src
-        run: |
-          terraform apply -auto-approve
+        run: terraform apply -auto-approve

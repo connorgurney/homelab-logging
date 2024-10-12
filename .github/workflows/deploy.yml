@@ -16,18 +16,16 @@ jobs:
       - name: Checkout repository
         id: checkout
         uses: actions/checkout@v4
-        with:
-          path: homelab-logging
       - name: Install Terraform
         id: tf-install
         uses: hashicorp/setup-terraform@v2
       - name: Set up Terraform
         id: tf-init
-        working-directory: homelab-logging/src
+        working-directory: src
         run: |
           terraform init
       - name: Apply Terraform changes
         id: tf-apply
-        working-directory: homelab-logging/src
+        working-directory: src
         run: |
           terraform apply -auto-approve

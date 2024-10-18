@@ -19,8 +19,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      "connorgurney:workload"    = "homelab-logging"
-      "connorgurney:environment" = "shared"
+      "connorgurney-workload"    = "homelab-logging"
+      "connorgurney-environment" = "shared"
     }
   }
 }
@@ -32,8 +32,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      "connorgurney:workload"    = "homelab-logging"
-      "connorgurney:environment" = "shared"
+      "connorgurney-workload"    = "homelab-logging"
+      "connorgurney-environment" = "shared"
     }
   }
 }
@@ -45,8 +45,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      "connorgurney:workload"    = "homelab-logging"
-      "connorgurney:environment" = "shared"
+      "connorgurney-workload"    = "homelab-logging"
+      "connorgurney-environment" = "shared"
     }
   }
 }
@@ -58,8 +58,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      "connorgurney:workload"    = "homelab-logging"
-      "connorgurney:environment" = "shared"
+      "connorgurney-workload"    = "homelab-logging"
+      "connorgurney-environment" = "shared"
     }
   }
 }
@@ -71,8 +71,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      "connorgurney:workload"    = "homelab-logging"
-      "connorgurney:environment" = "shared"
+      "connorgurney-workload"    = "homelab-logging"
+      "connorgurney-environment" = "shared"
     }
   }
 }
@@ -84,8 +84,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      "connorgurney:workload"    = "homelab-logging"
-      "connorgurney:environment" = "shared"
+      "connorgurney-workload"    = "homelab-logging"
+      "connorgurney-environment" = "shared"
     }
   }
 }
@@ -97,8 +97,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      "connorgurney:workload"    = "homelab-logging"
-      "connorgurney:environment" = "shared"
+      "connorgurney-workload"    = "homelab-logging"
+      "connorgurney-environment" = "shared"
     }
   }
 }
@@ -110,8 +110,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      "connorgurney:workload"    = "homelab-logging"
-      "connorgurney:environment" = "shared"
+      "connorgurney-workload"    = "homelab-logging"
+      "connorgurney-environment" = "shared"
     }
   }
 }
@@ -123,8 +123,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      "connorgurney:workload"    = "homelab-logging"
-      "connorgurney:environment" = "shared"
+      "connorgurney-workload"    = "homelab-logging"
+      "connorgurney-environment" = "shared"
     }
   }
 }
@@ -136,8 +136,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      "connorgurney:workload"    = "homelab-logging"
-      "connorgurney:environment" = "shared"
+      "connorgurney-workload"    = "homelab-logging"
+      "connorgurney-environment" = "shared"
     }
   }
 }
@@ -149,8 +149,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      "connorgurney:workload"    = "homelab-logging"
-      "connorgurney:environment" = "shared"
+      "connorgurney-workload"    = "homelab-logging"
+      "connorgurney-environment" = "shared"
     }
   }
 }
@@ -162,8 +162,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      "connorgurney:workload"    = "homelab-logging"
-      "connorgurney:environment" = "shared"
+      "connorgurney-workload"    = "homelab-logging"
+      "connorgurney-environment" = "shared"
     }
   }
 }
@@ -175,8 +175,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      "connorgurney:workload"    = "homelab-logging"
-      "connorgurney:environment" = "shared"
+      "connorgurney-workload"    = "homelab-logging"
+      "connorgurney-environment" = "shared"
     }
   }
 }
@@ -188,8 +188,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      "connorgurney:workload"    = "homelab-logging"
-      "connorgurney:environment" = "shared"
+      "connorgurney-workload"    = "homelab-logging"
+      "connorgurney-environment" = "shared"
     }
   }
 }
@@ -201,8 +201,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      "connorgurney:workload"    = "homelab-logging"
-      "connorgurney:environment" = "shared"
+      "connorgurney-workload"    = "homelab-logging"
+      "connorgurney-environment" = "shared"
     }
   }
 }
@@ -214,8 +214,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      "connorgurney:workload"    = "homelab-logging"
-      "connorgurney:environment" = "shared"
+      "connorgurney-workload"    = "homelab-logging"
+      "connorgurney-environment" = "shared"
     }
   }
 }
@@ -227,8 +227,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      "connorgurney:workload"    = "homelab-logging"
-      "connorgurney:environment" = "shared"
+      "connorgurney-workload"    = "homelab-logging"
+      "connorgurney-environment" = "shared"
     }
   }
 }
